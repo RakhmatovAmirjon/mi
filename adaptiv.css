@@ -1,0 +1,12 @@
+@media (max-width: 1440px) {
+    .the_biggest_img {
+        width: 1160px;
+        height: 600px;
+        background-image: url(img/big_bike_img.svg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        border: 1px solid black;
+        margin: 100px auto 0;
+    }
+}
